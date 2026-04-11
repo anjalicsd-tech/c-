@@ -42,7 +42,7 @@ class Program
 
         Console.WriteLine("Merged array:");
 
-        for (int i = 0; i < n1 + n2; i++)
+        for (int i = 0; i < n1 + n2; i++
         {
             Console.Write(merged[i] + " ");
         }
